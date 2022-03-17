@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @rakshitmakadia
 - 👀 I’m interested in Data Visualization and Analysis
-- 🌱 I’m currently learning Data Analysis with NumPy and Pandas
+- 🌱 I’m currently learning Amazon QuickSight and ThoughtSpot
 
 
 <!---
